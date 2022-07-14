@@ -3,9 +3,8 @@ Implementation of a randomized queue and deque. The randomized queue works the s
 can also return a random object within the queue. Deque has the functionality of a queue and stack combined. 
 
 # Before Use
-Please note that this code uses Princeton University's library of methods (seen imported at the top of the files). 
-If one runs into issues using these libraries, please import other libraries that can get the same job done. 
-This code is also compiled and ran using "javac-algs4" and "java-algs4". Please use "javac" and "java" instead if these do not work.
+Please note that this code uses a library of methods (seen imported at the top of the files). 
+Please follow this link(https://algs4.cs.princeton.edu/code/) to download the correct path to this library so that you may be able to run and use this code correctly. 
 
 # To Use
 1. Download the files in this repo
